@@ -37,7 +37,7 @@ Head over to [releases](https://github.com/Ruzie/urban/releases) and grab the la
 Alternatively you can also do
 ```sh
 # This is pull the lastest one from releases
-wget https://github.com/Ruzie/urban/releases/latest/download/urban.xz
+wget https://github.com/Ruzie/urban/releases/latest/download/urban.tar.xz
 ```
 ##### Note: All prebuild binary files were build against x86_64 architecture and GLIBC 2.31 or above.
 
