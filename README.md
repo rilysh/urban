@@ -1,7 +1,7 @@
 # Urban Dictionary CLI
 Search the meaning of a word or text on urban and print it on terminal :notebook:
 
-> ![image](https://user-images.githubusercontent.com/71683721/175098387-02cd8f81-1c77-44b5-bcea-cc2a70e03c72.png)
+![image](https://user-images.githubusercontent.com/71683721/175098387-02cd8f81-1c77-44b5-bcea-cc2a70e03c72.png)
 
 ## Installation
 ### From source
