@@ -1,5 +1,6 @@
 compile:
 	go build -ldflags "-w" urban.go
+	chmod -R 755 /usr/bin/urban
 
 install:
 	cp -f ./urban /usr/bin/urban
