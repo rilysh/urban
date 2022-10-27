@@ -3,7 +3,7 @@ compile:
 
 install:
 	cp -f ./urban /usr/bin/urban
-	chmod 755 /usr/bin/urban
+	chmod +x /usr/bin/urban
 
 cleanup:
 	rm -rf urban
