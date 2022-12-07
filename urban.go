@@ -172,15 +172,7 @@ func main() {
 		printf(string(raw))
 		break
 
-	case "-h":
-		help()
-		break
-
-	case "-help":
-		help()
-		break
-
-	case "--help":
+	case "-h", "-help", "--help":
 		help()
 		break
 
